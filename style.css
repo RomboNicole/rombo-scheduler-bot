@@ -1,0 +1,27 @@
+body {
+    background-color: #0b0b0c;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.chat-bot {
+    background-color: #b00020;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    border: 2px solid #b00020;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #b00020;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
